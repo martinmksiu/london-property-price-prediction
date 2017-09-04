@@ -11,8 +11,8 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, median_abso
 
 print("Loading data...\n")
 
-train = pd.read_csv(cwd+"/DATA/train.csv")
-test = pd.read_csv(cwd+"/DATA/test.csv")
+train = pd.read_csv(cwd+"/Data/train.csv")
+test = pd.read_csv(cwd+"/Data/test.csv")
 
 def fitmodel(train, test, verbose = 0, train_model = False, plot_graph = False):
 
