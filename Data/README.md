@@ -32,7 +32,5 @@ Full list of variables used:
 
 
 Data available at:
-
--train.csv https://www.dropbox.com/s/fz1h11bjqory8kj/train.csv?dl=0
-
--test.csv https://www.dropbox.com/s/ft5lzqietlkstiv/test.csv?dl=0
+- train.csv https://www.dropbox.com/s/fz1h11bjqory8kj/train.csv?dl=0
+- test.csv https://www.dropbox.com/s/ft5lzqietlkstiv/test.csv?dl=0
