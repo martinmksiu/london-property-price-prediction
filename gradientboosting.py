@@ -12,8 +12,8 @@ from xgboost import XGBRegressor
 
 print("Loading data...\n")
 
-train = pd.read_csv(cwd+"/DATA/train.csv")
-test = pd.read_csv(cwd+"/DATA/test.csv")
+train = pd.read_csv(cwd+"/Data/train.csv")
+test = pd.read_csv(cwd+"/Data/test.csv")
 
 # train = pd.read_csv(cwd+"/DATA/trial.csv")
 # test = pd.read_csv(cwd+"/DATA/trial2.csv")
