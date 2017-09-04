@@ -9,8 +9,8 @@ from sklearn.model_selection import RandomizedSearchCV
 from sklearn.metrics import mean_squared_error, mean_absolute_error, median_absolute_error
 
 print("Loading data...\n")
-# train = pd.read_csv(cwd+"/DATA/train.csv")
-# test = pd.read_csv(cwd+"/DATA/test.csv")
+# train = pd.read_csv(cwd+"/Data/train.csv")
+# test = pd.read_csv(cwd+"/Data/test.csv")
 
 train = pd.read_csv(cwd+"/DATA/train2.csv")
 test = pd.read_csv(cwd+"/DATA/test2.csv")
